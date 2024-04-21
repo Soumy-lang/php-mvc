@@ -2,3 +2,4 @@ mysql-data2/
 .DS_Store
 /.idea/inspectionProfiles/
 /.idea/php.xml
+.env
